@@ -1,5 +1,9 @@
 ## Hi there 👋
-
+- ✨I am a type of person who is interested in learning new technologies and building stuff by implementing the skills that I      have learnt.
+- ⚡I had worked on some basic web projects as well as some basic electronics projects with Arduino microcontroller.
+- 💪I am currently doing some research and learning in the elctronics(specifically Arduino related stuff).
+- 🔥Till now I have not gained any expertise in any field but I am now learning to become an expert.
+- ✌Excited to meet and collab with all the awesome people out there.
 <!--
 **M-Tashfeen-Saleem/M-Tashfeen-Saleem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,5 +16,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- Fun fact: ...
 -->
